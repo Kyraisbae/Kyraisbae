@@ -1,11 +1,2 @@
 ## Hi there 👋
-
-<!--
-**Kyraisbae/Kyraisbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on website
-- 🌱 I’m currently learning software development and web design
-
--->
+I’m Annabelle (Kyra) an Information Technology student with interests in data analysis, cybersecurity, and web development. I’m driven by curiosity and enjoy turning complex ideas into practical, data-driven solutions. My projects reflect a mix of logic, learning, and creativity — built to make technology smarter and more human.
